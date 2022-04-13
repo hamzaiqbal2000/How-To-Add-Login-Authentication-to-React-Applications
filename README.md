@@ -1,4 +1,11 @@
-# Getting Started with Create React App
+## How To Add Login Authentication to React Applications
+
+Authentication is a crucial requirement of many applications. The mixture of security concerns and user experience can be intimidating, but if you focus on validating data and rendering components at the correct time, it can become a lightweight process.
+
+Each storage solution offers distinct advantages and disadvantages. Your choice may change as your application evolves. By moving your component logic into an abstract custom Hook, you give yourself the ability to refactor without disrupting existing components.
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
